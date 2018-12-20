@@ -2,7 +2,7 @@
   "products": [
   {
     "_id": "5c1bc061ec5f3ed7731bd4e0",
-    "product": "product0",
+    "title": "product0",
     "guid": "6ce6898e-ce4e-46a7-ad0a-bcc4f253c2bd",
     "isActive": true,
     "picture": "http://placehold.it/32x32",
@@ -12,7 +12,7 @@
   },
   {
     "_id": "5c1bc061ccf306076eb3f10f",
-    "product": "product1",
+    "title": "product1",
     "guid": "b09b58f7-b1ab-43f4-ab10-79183de44a10",
     "isActive": false,
     "picture": "http://placehold.it/32x32",
@@ -22,7 +22,7 @@
   },
   {
     "_id": "5c1bc061334e26791173a0e4",
-    "product": "product2",
+    "title": "product2",
     "guid": "5c643099-29f0-4d1d-a68e-6e68ccbb2d60",
     "isActive": false,
     "picture": "http://placehold.it/32x32",
@@ -32,7 +32,7 @@
   },
   {
     "_id": "5c1bc0618fb07dac296728f5",
-    "product": "product3",
+    "title": "product3",
     "guid": "373dabfe-094e-4f9f-b3e7-2935c57d74df",
     "isActive": false,
     "picture": "http://placehold.it/32x32",
@@ -42,7 +42,7 @@
   },
   {
     "_id": "5c1bc06165f7e44f3685aea0",
-    "product": "product4",
+    "title": "product4",
     "guid": "51d144ce-005e-437a-960e-44a4752436ed",
     "isActive": true,
     "picture": "http://placehold.it/32x32",
