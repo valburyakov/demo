@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "products": [
+  {
+    "_id": "5c1bc061ec5f3ed7731bd4e0",
+    "product": "product0",
+    "guid": "6ce6898e-ce4e-46a7-ad0a-bcc4f253c2bd",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "price": 64,
+    "color": "green",
+    "description": "Proident qui et aliquip incididunt sunt excepteur do excepteur sint nisi. Labore in ut ex reprehenderit velit est ipsum anim sint minim anim. Dolor nulla in reprehenderit cillum quis minim aliquip enim consectetur eu nisi. Est quis fugiat pariatur est cillum sit ex nostrud consectetur adipisicing esse culpa cupidatat. Officia irure minim mollit veniam sunt tempor minim consequat laborum."
+  },
+  {
+    "_id": "5c1bc061ccf306076eb3f10f",
+    "product": "product1",
+    "guid": "b09b58f7-b1ab-43f4-ab10-79183de44a10",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "price": 88,
+    "color": "blue",
+    "description": "Labore qui aliqua adipisicing eu laboris ut magna sint aliquip aliquip laboris. Excepteur est tempor mollit irure magna fugiat exercitation qui. Ullamco dolor exercitation enim cillum enim ea elit culpa nulla ut in qui consectetur veniam."
+  },
+  {
+    "_id": "5c1bc061334e26791173a0e4",
+    "product": "product2",
+    "guid": "5c643099-29f0-4d1d-a68e-6e68ccbb2d60",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "price": 371,
+    "color": "blue",
+    "description": "Excepteur culpa ad ea culpa labore ad in amet velit eiusmod ex nulla excepteur officia. Nostrud dolor eu officia veniam pariatur culpa magna. Cupidatat do esse labore cillum. Occaecat veniam dolore anim enim Lorem mollit labore qui. Nostrud ullamco cillum et anim irure laboris id Lorem eiusmod consectetur quis duis est occaecat."
+  },
+  {
+    "_id": "5c1bc0618fb07dac296728f5",
+    "product": "product3",
+    "guid": "373dabfe-094e-4f9f-b3e7-2935c57d74df",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "price": 33,
+    "color": "blue",
+    "description": "Cupidatat fugiat nisi proident do reprehenderit sit adipisicing adipisicing magna eiusmod reprehenderit ea et in. Quis eiusmod sint nostrud tempor magna non culpa dolor Lorem amet ipsum non culpa. Commodo enim in eiusmod cillum esse id excepteur. Ex sunt aliquip voluptate incididunt et ea eu velit. Id laboris proident labore irure culpa labore tempor consequat incididunt mollit enim."
+  },
+  {
+    "_id": "5c1bc06165f7e44f3685aea0",
+    "product": "product4",
+    "guid": "51d144ce-005e-437a-960e-44a4752436ed",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "price": 334,
+    "color": "green",
+    "description": "Eu dolor consectetur culpa elit dolor ea reprehenderit anim enim. Sint enim enim occaecat sit nostrud excepteur in deserunt sint et. Enim amet irure proident aute dolor ipsum voluptate. Aute voluptate qui tempor anim nulla ipsum eu elit qui sit. Labore sit labore amet adipisicing nostrud proident officia laborum."
   }
+]
 }
